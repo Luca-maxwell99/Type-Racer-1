@@ -9,6 +9,6 @@ assignees: Luca-maxwell99
 
 As a - 
 
-I can - 
+I want - 
 
 So that -
